@@ -94,18 +94,31 @@ In this enhanced version of the project, we use **JavaFX** to create a GUI (Grap
 
 src/
 └── mvcdemo/
+
 ├── model/
+
 │ ├── Model.java
+
 │ ├── Student.java
+
 │ └── AnotherModel.java
+
 │
 ├── view/
+
 │ ├── View.java
+
 │ └── StudentView.java
+
 │
 ├── controller/
+
 │ ├── Controller.java
+
 │ └── StudentController.java
+
 │
 └── app/
+
 └── MainApp.java
+
