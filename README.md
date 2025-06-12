@@ -93,6 +93,7 @@ In this enhanced version of the project, we use **JavaFX** to create a GUI (Grap
 ## 📁 Project Structure
 
 src/
+
 └── mvcdemo/
 
 ├── model/
