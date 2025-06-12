@@ -1,4 +1,4 @@
-# MVC
+
 # MVCDemo Java Project
 
 This project demonstrates how to implement the **Model-View-Controller (MVC)** architecture in Java.
